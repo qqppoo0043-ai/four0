@@ -1,0 +1,7 @@
+requirements.txt
+
+fastapi
+uvicorn
+pillow
+opencv-python-headless
+numpy
